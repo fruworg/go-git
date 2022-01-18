@@ -1,6 +1,9 @@
 ### go-git
-Скрипт создаёт шаблон кода на go.
+Скрипт создаёт шаблон кода на go и коммитит его на Гитхаб.
 ```
-main.go
-go.mod
+repo
+  ∟ go.mod
+  ∟ main.go
+  ∟ README.md
+  ∟ commit-repo.sh
 ```
